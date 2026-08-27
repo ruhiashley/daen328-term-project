@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+.DS_Store
+*.db
+
+# Python virtual environments
+daen328_env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
