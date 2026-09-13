@@ -13,3 +13,7 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Google Cloud credentials
+bigquery-key.json
+*-service-account*.json
