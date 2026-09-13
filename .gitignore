@@ -17,3 +17,4 @@ venv/
 # Google Cloud credentials
 bigquery-key.json
 *-service-account*.json
+data/
